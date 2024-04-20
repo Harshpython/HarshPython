@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Harshdeep Singh</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
-<img align="right" alt="coding" width"400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-i_VRmusdjS9hg9Fq0wACXL3xYoCPIxtyKg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpython&label=Profile%20views&color=0e75b6&style=flat" alt="harshpython" /> </p>
 
